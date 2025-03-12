@@ -1,0 +1,275 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.btn-primary {
+  background-color: #0e6cff;
+  padding: 1em;
+  margin: 1em;
+}
+
+.btn-secondary {
+  background-color: #ff8700;
+  padding: 1em;
+  margin: 1em;
+}
+
+.btn-tertiary {
+  background-color: #4caf50;
+  padding: 1em;
+  margin: 1em;
+}
+
+.padding-block-sm {
+  padding-block: 4px;
+}
+
+.padding-inline-sm {
+  padding-inline: 4px;
+}
+
+.margin-block-sm {
+  margin-block: 4px;
+}
+
+.margin-inline-sm {
+  margin-inline: 4px;
+}
+
+.padding-block-normale {
+  padding-block: 8px;
+}
+
+.padding-inline-normale {
+  padding-inline: 8px;
+}
+
+.margin-block-normale {
+  margin-block: 8px;
+}
+
+.margin-inline-normale {
+  margin-inline: 8px;
+}
+
+.padding-block-md {
+  padding-block: 16px;
+}
+
+.padding-inline-md {
+  padding-inline: 16px;
+}
+
+.margin-block-md {
+  margin-block: 16px;
+}
+
+.margin-inline-md {
+  margin-inline: 16px;
+}
+
+.padding-block-lg {
+  padding-block: 24px;
+}
+
+.padding-inline-lg {
+  padding-inline: 24px;
+}
+
+.margin-block-lg {
+  margin-block: 24px;
+}
+
+.margin-inline-lg {
+  margin-inline: 24px;
+}
+
+.padding-block-xl {
+  padding-block: 32px;
+}
+
+.padding-inline-xl {
+  padding-inline: 32px;
+}
+
+.margin-block-xl {
+  margin-block: 32px;
+}
+
+.margin-inline-xl {
+  margin-inline: 32px;
+}
+
+.padding-block-xxl {
+  padding-block: 40px;
+}
+
+.padding-inline-xxl {
+  padding-inline: 40px;
+}
+
+.margin-block-xxl {
+  margin-block: 40px;
+}
+
+.margin-inline-xxl {
+  margin-inline: 40px;
+}
+
+.hero {
+  background-color: #640fc5;
+  color: #f4f4f4;
+  padding: 1em;
+  margin: 1em;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ff0000;
+  padding: 1em;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ff0000;
+  padding: 1em;
+}
+
+.navbar ul li {
+  margin: 0.8em;
+} /*# sourceMappingURL=style.css.map */

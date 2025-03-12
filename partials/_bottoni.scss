@@ -1,0 +1,11 @@
+.btn-primary {
+    @include color-btn-primary
+}
+
+.btn-secondary {
+    @include color-btn-secondary
+}
+
+.btn-tertiary {
+    @include color-btn-tertiary
+}

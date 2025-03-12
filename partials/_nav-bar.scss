@@ -1,0 +1,11 @@
+.navbar {
+    @include nav-bar
+}
+
+.navbar ul {
+    @include nav-bar
+}
+
+.navbar ul li {
+    margin:$margin-left;
+}

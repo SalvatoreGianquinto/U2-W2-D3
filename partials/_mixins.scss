@@ -1,0 +1,26 @@
+@mixin color-btn-primary {
+    background-color: $primary-color;
+    padding: $padding;
+    margin: $margin;
+}
+
+@mixin color-btn-secondary {
+    background-color: $secondary-color;
+    padding: $padding;
+    margin: $margin;
+}
+
+@mixin color-btn-tertiary{
+    background-color: $tertiary-color;
+    padding: $padding;
+    margin: $margin;
+}
+
+@mixin nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $navbar-bg;
+    padding: $padding;
+}
+
